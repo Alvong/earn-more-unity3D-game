@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 324d08ca1195eee44869990e05daba2b
+timeCreated: 1458083131
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 16
+    100002: Camera
+    100004: Camera.001
+    100006: //RootNode
+    100008: chimney_01
+    100010: Cube
+    100012: Cube.006
+    100014: Cube.007
+    100016: Cube.008
+    100018: Cube.009
+    100020: Cube.010
+    100022: Cube.011
+    100024: fabrika_2
+    100026: factory_1
+    100028: factory_1.001
+    100030: factory_24.001
+    100032: factory_24.002
+    100034: factory_24.003
+    100036: factory_24.004
+    100038: MOON
+    100040: Plane.002
+    100042: SLOUPY
+    100044: SLOUPY.001
+    100046: SLOUPY.002
+    100048: SLOUPY.004
+    100050: SLOUPY.005
+    400000: 16
+    400002: Camera
+    400004: Camera.001
+    400006: chimney_01
+    400008: //RootNode
+    400010: Cube
+    400012: Cube.006
+    400014: Cube.007
+    400016: Cube.008
+    400018: Cube.009
+    400020: Cube.010
+    400022: Cube.011
+    400024: fabrika_2
+    400026: factory_1
+    400028: factory_1.001
+    400030: factory_24.001
+    400032: factory_24.002
+    400034: factory_24.003
+    400036: factory_24.004
+    400038: MOON
+    400040: Plane.002
+    400042: SLOUPY
+    400044: SLOUPY.001
+    400046: SLOUPY.002
+    400048: SLOUPY.004
+    400050: SLOUPY.005
+    2300000: 16
+    2300002: chimney_01
+    2300004: Cube
+    2300006: Cube.006
+    2300008: Cube.007
+    2300010: Cube.008
+    2300012: Cube.009
+    2300014: Cube.010
+    2300016: Cube.011
+    2300018: fabrika_2
+    2300020: factory_1
+    2300022: factory_1.001
+    2300024: factory_24.001
+    2300026: factory_24.002
+    2300028: factory_24.003
+    2300030: factory_24.004
+    2300032: Plane.002
+    2300034: SLOUPY
+    2300036: SLOUPY.001
+    2300038: SLOUPY.002
+    2300040: SLOUPY.004
+    2300042: SLOUPY.005
+    2300044: //RootNode
+    3300000: 16
+    3300002: chimney_01
+    3300004: Cube
+    3300006: Cube.006
+    3300008: Cube.007
+    3300010: Cube.008
+    3300012: Cube.009
+    3300014: Cube.010
+    3300016: Cube.011
+    3300018: fabrika_2
+    3300020: factory_1
+    3300022: factory_1.001
+    3300024: factory_24.001
+    3300026: factory_24.002
+    3300028: factory_24.003
+    3300030: factory_24.004
+    3300032: Plane.002
+    3300034: SLOUPY
+    3300036: SLOUPY.001
+    3300038: SLOUPY.002
+    3300040: SLOUPY.004
+    3300042: SLOUPY.005
+    3300044: //RootNode
+    4300000: factory_1.001
+    4300002: factory_24.004
+    4300004: factory_24.003
+    4300006: factory_24.002
+    4300008: factory_24.001
+    4300010: Plane.002
+    4300012: SLOUPY.001
+    4300014: Cube.011
+    4300016: Cube.010
+    4300018: SLOUPY.005
+    4300020: SLOUPY.004
+    4300022: SLOUPY.002
+    4300024: Cube.009
+    4300026: Cube.008
+    4300028: Cube.006
+    4300030: Cube
+    4300032: Cube.007
+    4300034: SLOUPY
+    4300036: fabrika_2
+    4300038: factory_1
+    4300040: 16
+    4300042: chimney_01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
